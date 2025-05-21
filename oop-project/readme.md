@@ -10,7 +10,6 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
 - Process and clean data from a `.dat` file, convert it to `.csv`, and handle exceptions gracefully.
 - Create insightful visualizations to identify trends and patterns in the data.
 
----
 
 ##  OOP Implementation
 
@@ -20,7 +19,6 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
   - **Encapsulation** – Protect class attributes and methods.
   - **Polymorphism** – Override methods to allow flexible behavior.
 
----
 
 ## 📊 Data Processing
 
@@ -30,7 +28,6 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
   - Data formatting
   - Exceptions during file I/O and data conversion
 
----
 
 ##  Visualizations Included
 
@@ -46,8 +43,5 @@ Using libraries such as `matplotlib` and `seaborn`, the following chart types we
 
 Each visualization is used to support storytelling and help readers/audience understand key trends in the dataset.
 
----
-
-## 📂 Folder Structure
 
 
