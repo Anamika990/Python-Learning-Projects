@@ -31,7 +31,7 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
 
 ##  Visualizations Included
 
-Using libraries such as `matplotlib` and `seaborn`, the following chart types were created:
+Using libraries such as `matplotlib`, `pandas`, `numPy`, and `seaborn`, the following chart types were created:
 
 1. **Bar Charts – Compare categorical or numerical data.**
 2. **Boxplots – Display distribution and outliers.**
