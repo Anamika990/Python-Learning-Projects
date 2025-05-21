@@ -33,13 +33,13 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
 
 Using libraries such as `matplotlib` and `seaborn`, the following chart types were created:
 
-1. **Bar Charts**
-2. **Boxplots**
-3. **Line Plots**
-4. **Scatter Plots**
-5. **Histograms**
-6. **Pie Charts**
-7. **Heat Maps**
+1. **Bar Charts – Compare categorical or numerical data.**
+2. **Boxplots – Display distribution and outliers.**
+3. **Line Plots – Show trends over time.**
+4. **Scatter Plots – Identify relationships between variables.**
+5. **Histograms – Analyze data distribution.**
+6. **Pie Charts – Illustrate parts of a whole.**
+7. **Heat Maps – Visualize correlation matrices or density.**
 
 Each visualization is used to support storytelling and help readers/audience understand key trends in the dataset.
 
