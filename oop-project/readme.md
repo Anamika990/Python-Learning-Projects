@@ -20,7 +20,7 @@ This project combines **Object-Oriented Programming (OOP)** principles with **da
   - **Polymorphism** – Override methods to allow flexible behavior.
 
 
-## 📊 Data Processing
+##  Data Processing
 
 - Read from a `.dat` file and exported the cleaned data to a `.csv` file.
 - Handled:
